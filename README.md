@@ -11,7 +11,7 @@
 ---
 
 > ##### Team
-  > April Dae Bation
-  > Mark Vincent Melgo
-  > Mary Rose Narca
-  > Radley Wynne Rosal
+  > * April Dae Bation
+  > * Mark Vincent Melgo
+  > * Mary Rose Narca
+  > * Radley Wynne Rosal
